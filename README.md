@@ -2,5 +2,5 @@
 
 ## Integrantes
 
-- [Isabelli Luísa Rosa] 
+- [Isabelli Luísa Rosa] git 
 - [André Richartz Farias] 
