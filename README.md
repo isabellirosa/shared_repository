@@ -2,5 +2,5 @@
 
 ## Integrantes
 
-- [Isabelli Luísa Rosa] git 
-- [André Richartz Farias] 
+- [Isabelli Luísa Rosa] (https//:gihub/isabellirosa)
+- [André Richartz Farias] (https//:gihub/andrerichartz)
